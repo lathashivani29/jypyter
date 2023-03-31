@@ -1,0 +1,6 @@
+name: jupyter notebook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - obspy >=1.2.0
